@@ -2,6 +2,7 @@ package com.lamp.proxy.cglib;
 
 
 import org.junit.Test;
+import org.springframework.cglib.core.DebuggingClassWriter;
 import org.springframework.cglib.proxy.Enhancer;
 import org.springframework.cglib.proxy.MethodInterceptor;
 import org.springframework.cglib.proxy.MethodProxy;
@@ -23,6 +24,8 @@ class CglibProxy implements MethodInterceptor {
 
      Object CreateProxy( Object   targer){
          this.targer=targer;
+
+
          Enhancer enhancer = new Enhancer();
          enhancer.setSuperclass(targer.getClass());
          enhancer.setCallback(this);
@@ -57,6 +60,7 @@ public class Demo {
 
     @Test
     public   void test(){
+        System.setProperty(DebuggingClassWriter.DEBUG_LOCATION_PROPERTY, "C:\\class");
         UserDao userDao = new UserDao();
         CglibProxy cglibProxy = new CglibProxy();
         UserDao o = (UserDao)cglibProxy.CreateProxy(userDao);

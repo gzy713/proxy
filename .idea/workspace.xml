@@ -5,75 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="105b4548-35bc-4df4-b37f-cbfa85885bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lamp/proxy/cglib/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-aop-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-aop-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-aop-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-aspects-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-aspects-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-aspects-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-beans-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-beans-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-beans-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-build-src-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-support-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-support-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-context-support-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-core-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-core-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-core-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-expression-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-expression-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-expression-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-framework-bom-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-framework-bom-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-framework-bom-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-instrument-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-instrument-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-instrument-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-instrument-tomcat-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-instrument-tomcat-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-instrument-tomcat-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-jdbc-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-jdbc-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-jdbc-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-jms-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-jms-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-jms-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-messaging-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-messaging-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-messaging-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-orm-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-orm-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-orm-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-oxm-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-oxm-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-oxm-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-test-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-test-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-test-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-tx-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-tx-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-tx-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-web-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-web-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-web-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-webmvc-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-webmvc-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-webmvc-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-webmvc-portlet-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-webmvc-portlet-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-webmvc-portlet-4.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-websocket-4.0.0.RELEASE-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-websocket-4.0.0.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/spring-websocket-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lamp/proxy/cglib/abcd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lamp/proxy/cglib2/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/com/lamp/proxy/cglib/CglibProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/com/lamp/proxy/cglib/CglibProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/com/lamp/proxy/cglib/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/com/lamp/proxy/cglib/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/com/lamp/proxy/cglib/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pattern/com/lamp/proxy/cglib/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lamp/proxy/cglib/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lamp/proxy/cglib/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,17 +84,18 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\myEnvforJava\pattern\src\lib" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\myEnvforJava\pattern\src\com\lamp\proxy\cglib" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.Demo (1)">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Demo.Test (1)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -187,6 +126,22 @@
       <option name="PACKAGE_NAME" value="com.lamp.proxy.jdkProxy" />
       <option name="MAIN_CLASS_NAME" value="com.lamp.proxy.jdkProxy.Demo" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.Test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lamp.proxy.cglib2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lamp.proxy.cglib2" />
+      <option name="MAIN_CLASS_NAME" value="com.lamp.proxy.cglib2.Demo" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -223,29 +178,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo.test_" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lamp.Strategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lamp.Strategy" />
-      <option name="MAIN_CLASS_NAME" value="com.lamp.Strategy.Demo" />
-      <option name="METHOD_NAME" value="test_" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Demo (1)" />
+        <item itemvalue="JUnit.Demo.Test (1)" />
         <item itemvalue="JUnit.Demo.test (1)" />
+        <item itemvalue="JUnit.Demo (1)" />
         <item itemvalue="JUnit.Demo.Test" />
         <item itemvalue="JUnit.Demo" />
-        <item itemvalue="JUnit.Demo.test_" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +199,8 @@
       <workItem from="1604896635516" duration="2856000" />
       <workItem from="1605072234796" duration="794000" />
       <workItem from="1625383935449" duration="431000" />
-      <workItem from="1625384400478" duration="7022000" />
+      <workItem from="1625384400478" duration="9022000" />
+      <workItem from="1625399738875" duration="6828000" />
     </task>
     <servers />
   </component>
@@ -277,5 +217,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
